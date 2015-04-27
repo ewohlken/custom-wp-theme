@@ -1,0 +1,27 @@
+{
+  "name": "custom",
+  "version": "1.0.0",
+  "authors": [
+    "Elvis Wohlken <ewohlken@gmail.com>"
+  ],
+  "main": "gulpfile.js",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "foundation": "zurb/bower-foundation#~5.5.1",
+    "fontawesome": "~4.3.0"
+  },
+  "devDependencies": {
+    "foundation": "~5.5.1",
+    "fontawesome": "~4.3.0"
+  }
+}
