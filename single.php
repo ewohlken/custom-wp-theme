@@ -16,7 +16,7 @@
                             <?php get_template_part('parts/post-meta') ?>
                         </header>
 
-                        <?php gc15_post_thumbnail() ?>
+                        <?php custom_post_thumbnail() ?>
                         <?php do_action('custom_post_before_entry_content') ?>
 
                         <div class="entry-content">
